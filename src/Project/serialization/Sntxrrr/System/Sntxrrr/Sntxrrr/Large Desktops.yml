@@ -1,0 +1,21 @@
+﻿---
+ID: "f51a1283-1956-45fd-b219-d52c0081950e"
+Parent: "5096a6d6-a80a-4929-b25e-3b74ea23a9d0"
+Template: "bca0e629-150f-41dd-893b-f4b65338c0b7"
+Path: /sitecore/system/Settings/Feature/Experience Accelerator/Sntxrrr/Sntxrrr/Large Desktops
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180217T070923Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b55a9065-9589-41d8-997b-9b4592852134"
+      Hint: Tooltip
+      Value: Layout settings for computers with large screens. 
