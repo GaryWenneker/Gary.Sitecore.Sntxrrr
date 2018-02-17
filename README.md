@@ -1,5 +1,7 @@
 # Gary.Sitecore.Sntxrrr
 
+Read more about how to use this on my blog [Becoming MacGyver using the CSS Swiss Army Knife in Sitecore SXA](http://gary.wenneker.org/2018/02/17/becoming-macgyver-using-the-css-swiss-army-knife-in-sitecore-sxa/)
+
 ![](https://gary.wenneker.org/content/images/2018/02/SNTXRRR.png)
 
 Provides an SXA grid system based on Flexbox by Sntxrrr (see photo) and can be synced with Unicorn.
