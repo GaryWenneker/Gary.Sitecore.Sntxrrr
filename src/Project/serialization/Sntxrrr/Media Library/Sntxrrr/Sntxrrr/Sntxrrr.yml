@@ -1,0 +1,14 @@
+﻿---
+ID: "e17f2aac-9935-48fd-8895-2311d6a68172"
+Parent: "fee85236-be19-45f8-8c46-433b6446e83c"
+Template: "9c0dac28-08aa-4b44-bc21-53363206f6a5"
+Path: /sitecore/media library/Feature/Experience Accelerator/Sntxrrr/Sntxrrr/Sntxrrr
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180217T081150Z

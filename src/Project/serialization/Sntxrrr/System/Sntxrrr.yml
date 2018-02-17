@@ -1,0 +1,18 @@
+﻿---
+ID: "058d000e-f35f-4f9b-adee-d9e3ab08cf2b"
+Parent: "ae7d1fb3-b4a7-4e43-9559-5c2e37c2c86f"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/system/Settings/Feature/Experience Accelerator/Sntxrrr
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180217T065643Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

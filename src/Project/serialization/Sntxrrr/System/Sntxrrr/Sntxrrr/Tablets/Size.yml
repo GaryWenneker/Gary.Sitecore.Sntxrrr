@@ -1,0 +1,18 @@
+﻿---
+ID: "3e2aebee-7175-4711-9c1d-56f5b6d7e125"
+Parent: "b35c6c3e-3257-4dd8-90e5-1276a7e097b9"
+Template: "5e32e75f-446a-412c-8ed8-922320ae9031"
+Path: /sitecore/system/Settings/Feature/Experience Accelerator/Sntxrrr/Sntxrrr/Tablets/Size
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161216T082214Z

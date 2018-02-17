@@ -1,0 +1,46 @@
+{
+  "name": "Sntxrrr",
+  "version": "1.0.0",
+  "description": "Sntxrrr Node Dependencies",
+  "main": "gulpfile.js",
+  "scripts": {
+    "postinstall": "node ./deploy/gulp/copy-localmodules.js",
+    "tslint": "tslint -c src/UI/tslint.json -p src/UI/tsconfig.json"
+  },
+  "pre-commit-disabled": [
+    "tslint"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "async": "1.5.2",
+    "glob": "7.0.3",
+    "gulp": "3.9.1",
+    "gulp-autoprefixer": "3.1.0",
+    "gulp-babel": "6.1.2",
+    "gulp-concat": "2.6.1",
+    "gulp-debug": "2.1.2",
+    "gulp-exec": "2.1.2",
+    "gulp-ext-replace": "^0.3.0",
+    "gulp-foreach": "0.1.0",
+    "gulp-if": "1.2.5",
+    "gulp-ignore": "2.0.2",
+    "gulp-load-plugins": "1.0.0",
+    "gulp-minify-css": "1.2.1",
+    "gulp-modernizr": "1.0.0-alpha",
+    "gulp-msbuild": "0.4.4",
+    "gulp-newer": "1.0.0",
+    "gulp-nuget-restore": "0.4.0",
+    "gulp-rename": "1.2.2",
+    "gulp-rimraf": "0.2.1",
+    "gulp-run": "^1.7.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "1.9.1",
+    "gulp-uglify": "1.2.0",
+    "gulp-util": "3.0.7",
+    "gulp-watch": "4.3.5",
+    "run-sequence": "1.1.4",
+    "xml2js": "0.4.16",
+    "xmlpoke": "0.1.12",
+    "ncp": "^2.0.0"
+  }
+}

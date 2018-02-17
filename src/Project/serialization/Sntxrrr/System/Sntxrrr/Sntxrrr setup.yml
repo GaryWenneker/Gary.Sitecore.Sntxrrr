@@ -1,0 +1,21 @@
+﻿---
+ID: "622ad917-da27-42db-85cd-46a5a912d742"
+Parent: "058d000e-f35f-4f9b-adee-d9e3ab08cf2b"
+Template: "dbdf5dfd-f79b-4766-99b9-e29775d97328"
+Path: /sitecore/system/Settings/Feature/Experience Accelerator/Sntxrrr/Sntxrrr setup
+DB: master
+SharedFields:
+- ID: "c1489cff-fc13-4cf7-9457-4e5870d647e2"
+  Hint: Grid Definition
+  Value: "{5096A6D6-A80A-4929-B25E-3B74EA23A9D0}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180217T065910Z
+    - ID: "c202067e-7fab-4606-afb4-e76df2185ddc"
+      Hint: Name
+      Value: Sntxrrr
