@@ -2,7 +2,7 @@
 
 ![](https://gary.wenneker.org/content/images/2018/02/SNTXRRR.png)
 
-Provides an SXA grid system based on Flexbox by Sntxrrr and can be synced with Unicorn.
+Provides an SXA grid system based on Flexbox by Sntxrrr (see photo) and can be synced with Unicorn.
 
 This is a sample module which can be used in Sitecore 9.0.1. It is fully build
 on the Helix Principles with a little Gary Flavour.
